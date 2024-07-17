@@ -1,0 +1,19 @@
+p{
+    background-color: pink;
+ 
+}
+
+#div1{
+    color: blue;
+    font-size: 40px;
+}
+
+#div2{
+    background-color: rgb(105, 255, 105);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.adjust-font{
+    font-size: 40px;
+}
